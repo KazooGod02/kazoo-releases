@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
-  "url": "https://github.com/KazooGod02/kazoo-releases/releases/download/v1.2.0/Kazoo.App.Setup.1.2.0.exe",
-  "notes": "Stream Hub pro: pre-check guiado, eventos, titulos con tu formato y OAuth de Twitch."
+  "version": "1.3.0",
+  "url": "https://github.com/KazooGod02/kazoo-releases/releases/download/v1.3.0/Kazoo.App.Setup.1.3.0.exe",
+  "notes": "Updater dentro de la app: descarga e instala la actualizacion solito, sin la alerta fea de Windows. Ademas toda la app y KazooIA ahora hablan espanol mexicano."
 }

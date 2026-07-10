@@ -1,5 +1,5 @@
 {
-  "version": "1.6.0",
-  "url": "https://github.com/KazooGod02/kazoo-releases/releases/download/v1.6.0/Kazoo.App.Setup.1.6.0.exe",
-  "notes": "OBS Companion (controla escenas, salir en vivo, grabar y audio desde Kazoo App, sin abrir OBS) y Marathons (countdown, panel en vivo con metas y promo con IA)."
+  "version": "1.7.0",
+  "url": "https://github.com/KazooGod02/kazoo-releases/releases/download/v1.7.0/Kazoo.App.Setup.1.7.0.exe",
+  "notes": "Dock con 3 modos (Analytics/Creation/Streaming): la K cambia de modo con transicion, y un boton circular rosa al centro con la accion principal de cada modo (subir video, chat de Twitch, idea rapida con IA)."
 }

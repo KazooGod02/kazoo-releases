@@ -1,5 +1,5 @@
 {
-  "version": "1.7.0",
-  "url": "https://github.com/KazooGod02/kazoo-releases/releases/download/v1.7.0/Kazoo.App.Setup.1.7.0.exe",
-  "notes": "Dock con 3 modos (Analytics/Creation/Streaming): la K cambia de modo con transicion, y un boton circular rosa al centro con la accion principal de cada modo (subir video, chat de Twitch, idea rapida con IA)."
+  "version": "1.8.0",
+  "url": "https://github.com/KazooGod02/kazoo-releases/releases/download/v1.8.0/Kazoo.App.Setup.1.8.0.exe",
+  "notes": "Dock rebalanceado: el boton central reemplaza su destino y los botones se reparten a ambos lados. Nuevas funciones: Metas y Misiones (paginas), Wrapped, y herramientas de IA (Titulos, Roast, Copys, Director, Anuncio)."
 }

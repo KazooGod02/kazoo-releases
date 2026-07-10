@@ -1,5 +1,5 @@
 {
-  "version": "1.5.1",
-  "url": "https://github.com/KazooGod02/kazoo-releases/releases/download/v1.5.1/Kazoo.App.Setup.1.5.1.exe",
-  "notes": "Kazoo Vault apuntado a tu baul de edicion (D:\\Kazoo Repertoire); las descargas por categoria van a tus carpetas Memes/Music/SFX."
+  "version": "1.5.2",
+  "url": "https://github.com/KazooGod02/kazoo-releases/releases/download/v1.5.2/Kazoo.App.Setup.1.5.2.exe",
+  "notes": "Buscador del Vault arreglado (busca por palabras aunque no pongas el nombre exacto), favoritos, y categorias nuevas: Green Screen y Kazoo Essentials."
 }

@@ -1,5 +1,5 @@
 {
-  "version": "1.12.1",
-  "url": "https://github.com/KazooGod02/kazoo-releases/releases/download/v1.12.1/Kazoo.App.Setup.1.12.1.exe",
-  "notes": "Instagram con las llaves correctas (App ID/secret de la API de Instagram) y permiso minimo. Redirects de Instagram/TikTok configurables. Ya con TikTok, YouTube (subir videos + miniaturas) e Instagram."
+  "version": "1.12.2",
+  "url": "https://github.com/KazooGod02/kazoo-releases/releases/download/v1.12.2/Kazoo.App.Setup.1.12.2.exe",
+  "notes": "Instagram: conecta pegando tu token de acceso (sin OAuth ni webhooks). Ya con las 4 redes: YouTube (subir videos + miniaturas), TikTok (sandbox), Instagram y Twitch."
 }

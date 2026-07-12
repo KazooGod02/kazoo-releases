@@ -1,5 +1,5 @@
 {
-  "version": "1.8.0",
-  "url": "https://github.com/KazooGod02/kazoo-releases/releases/download/v1.8.0/Kazoo.App.Setup.1.8.0.exe",
-  "notes": "Dock rebalanceado: el boton central reemplaza su destino y los botones se reparten a ambos lados. Nuevas funciones: Metas y Misiones (paginas), Wrapped, y herramientas de IA (Titulos, Roast, Copys, Director, Anuncio)."
+  "version": "1.11.0",
+  "url": "https://github.com/KazooGod02/kazoo-releases/releases/download/v1.11.0/Kazoo.App.Setup.1.11.0.exe",
+  "notes": "Instagram conectable por OAuth desde Ajustes. Nuevo compositor de subida de videos: contadores de limite por plataforma (titulo, descripcion, hashtags) en vivo, recomendador de hashtags con IA y avisos de limite en cada copy antes de subir."
 }

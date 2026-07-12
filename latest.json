@@ -1,5 +1,5 @@
 {
-  "version": "1.12.0",
-  "url": "https://github.com/KazooGod02/kazoo-releases/releases/download/v1.12.0/Kazoo.App.Setup.1.12.0.exe",
-  "notes": "TikTok conectable (sandbox) + YouTube: subida real de videos y miniaturas desde Publicar + Instagram por pagina-rebote HTTPS + composer con limites y hashtags por plataforma."
+  "version": "1.12.1",
+  "url": "https://github.com/KazooGod02/kazoo-releases/releases/download/v1.12.1/Kazoo.App.Setup.1.12.1.exe",
+  "notes": "Instagram con las llaves correctas (App ID/secret de la API de Instagram) y permiso minimo. Redirects de Instagram/TikTok configurables. Ya con TikTok, YouTube (subir videos + miniaturas) e Instagram."
 }

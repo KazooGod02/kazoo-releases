@@ -1,5 +1,5 @@
 {
-  "version": "1.12.5",
-  "url": "https://github.com/KazooGod02/kazoo-releases/releases/download/v1.12.5/Kazoo.App.Setup.1.12.5.exe",
-  "notes": "Analiticas de las 4 redes (Instagram y TikTok ahora aparecen y alimentan las recomendaciones + Creator Score). Antes: subir videos a YouTube, TikTok/Instagram conectados."
+  "version": "1.12.6",
+  "url": "https://github.com/KazooGod02/kazoo-releases/releases/download/v1.12.6/Kazoo.App.Setup.1.12.6.exe",
+  "notes": "TikTok: fix del PKCE (challenge en hex). Deberia conectar ya. Las 4 redes con analiticas y subida a YouTube."
 }

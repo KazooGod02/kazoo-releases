@@ -1,5 +1,5 @@
 {
-  "version": "1.12.4",
-  "url": "https://github.com/KazooGod02/kazoo-releases/releases/download/v1.12.4/Kazoo.App.Setup.1.12.4.exe",
-  "notes": "TikTok: fix del PKCE (code verifier). Las 4 redes conectables: YouTube (subir videos + miniaturas), TikTok, Instagram (token) y Twitch."
+  "version": "1.12.5",
+  "url": "https://github.com/KazooGod02/kazoo-releases/releases/download/v1.12.5/Kazoo.App.Setup.1.12.5.exe",
+  "notes": "Analiticas de las 4 redes (Instagram y TikTok ahora aparecen y alimentan las recomendaciones + Creator Score). Antes: subir videos a YouTube, TikTok/Instagram conectados."
 }

@@ -1,5 +1,5 @@
 {
-  "version": "1.12.6",
-  "url": "https://github.com/KazooGod02/kazoo-releases/releases/download/v1.12.6/Kazoo.App.Setup.1.12.6.exe",
-  "notes": "TikTok: fix del PKCE (challenge en hex). Deberia conectar ya. Las 4 redes con analiticas y subida a YouTube."
+  "version": "1.13.0",
+  "url": "https://github.com/KazooGod02/kazoo-releases/releases/download/v1.13.0/Kazoo.App.Setup.1.13.0.exe",
+  "notes": "Kazoo Cloud: tus datos te siguen a cualquier laptop (planner, metas, racha, Creator Score). Kazoo Studio: tu propio estudio de streaming con escenas, camara, chat en pantalla y salida en vivo a Twitch/YouTube."
 }

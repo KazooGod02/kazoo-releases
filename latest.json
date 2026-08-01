@@ -1,5 +1,5 @@
 {
-  "version": "1.17.1",
-  "url": "https://github.com/KazooGod02/kazoo-releases/releases/download/v1.17.1/Kazoo.App.Setup.1.17.1.exe",
-  "notes": "Muerto el bug madre: el guardado ya funciona DE VERDAD en la app instalada (las rutas quedaban estaticas y daban HTTP 405). Ademas: agregar fuentes ya no reemplaza las anteriores, faders verticales de verdad, captura por la via moderna de Electron y sin scroll fantasma."
+  "version": "1.18.0",
+  "url": "https://github.com/KazooGod02/kazoo-releases/releases/download/v1.18.0/Kazoo.App.Setup.1.18.0.exe",
+  "notes": "Vista previa con zoom estilo OBS y franjas negras, redimensionar arreglado (8 tiradores, Shift = libre), clic derecho con 16 opciones, paneles ajustables y mezclador sin scroll con configuracion de audio."
 }

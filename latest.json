@@ -1,5 +1,5 @@
 {
-  "version": "1.14.0",
-  "url": "https://github.com/KazooGod02/kazoo-releases/releases/download/v1.14.0/Kazoo.App.Setup.1.14.0.exe",
-  "notes": "Kazoo Studio v2: rediseno completo estilo OBS con todas las fuentes, mezclador de 6 pistas y ajustes completos. Nuevo creador de ALERTAS y control desde tu STREAM DECK."
+  "version": "1.14.1",
+  "url": "https://github.com/KazooGod02/kazoo-releases/releases/download/v1.14.1/Kazoo.App.Setup.1.14.1.exe",
+  "notes": "Arreglados los dos fallos del estudio: los ajustes ya no se pierden al salir, y la previsualizacion funciona de verdad (escena propia + las capturas siguen vivas al volver). Modo estudio completo con boton de Transicion."
 }

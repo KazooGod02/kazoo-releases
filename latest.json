@@ -1,5 +1,5 @@
 {
-  "version": "1.14.1",
-  "url": "https://github.com/KazooGod02/kazoo-releases/releases/download/v1.14.1/Kazoo.App.Setup.1.14.1.exe",
-  "notes": "Arreglados los dos fallos del estudio: los ajustes ya no se pierden al salir, y la previsualizacion funciona de verdad (escena propia + las capturas siguen vivas al volver). Modo estudio completo con boton de Transicion."
+  "version": "1.15.1",
+  "url": "https://github.com/KazooGod02/kazoo-releases/releases/download/v1.15.1/Kazoo.App.Setup.1.15.1.exe",
+  "notes": "Studio al centro del dock (sin OBS remoto), MULTISTREAM gratis a varias plataformas a la vez, Kazoo AutoEdit integrado, entradas de audio por dispositivo y diseno renovado. Arreglado el consumo de CPU del estudio y el guardado de ajustes."
 }

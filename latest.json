@@ -1,5 +1,5 @@
 {
-  "version": "1.15.2",
-  "url": "https://github.com/KazooGod02/kazoo-releases/releases/download/v1.15.2/Kazoo.App.Setup.1.15.2.exe",
-  "notes": "Arreglo de raiz del estudio: ya se conceden los permisos de medios (pantalla, ventana, juego, camara y audio funcionan), se acabo la pantalla gris al activar audio, y el codificador ya no vuelve a x264."
+  "version": "1.16.0",
+  "url": "https://github.com/KazooGod02/kazoo-releases/releases/download/v1.16.0/Kazoo.App.Setup.1.16.0.exe",
+  "notes": "Codificacion unica: el video ya no se codifica dos veces (mucha menos CPU mientras juegas). Nuevo boton para apagar la vista previa en vivo y liberar GPU. Incluye los arreglos de permisos del estudio."
 }

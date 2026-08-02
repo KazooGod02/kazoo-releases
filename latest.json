@@ -1,5 +1,5 @@
 {
-  "version": "1.20.0",
-  "url": "https://github.com/KazooGod02/kazoo-releases/releases/download/v1.20.0/Kazoo.App.Setup.1.20.0.exe",
-  "notes": "Nuevo Kazoo Bridge: escanea tu SSD y el disco que llevas contigo y pasa solo lo que falta, para retomar la edicion en el otro equipo sin mover nada a mano. Sustituye a 'Destrozame el video'."
+  "version": "1.21.0",
+  "url": "https://github.com/KazooGod02/kazoo-releases/releases/download/v1.21.0/Kazoo.App.Setup.1.21.0.exe",
+  "notes": "Studio: arreglado el menu del clic derecho, renombrar con F2, arrastrar para reordenar, chroma key y efectos de audio (compresor, supresion, puerta), plataformas con semaforo, barra de ESTAS TRANSMITIENDO en el dock y nueva barra superior."
 }

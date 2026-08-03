@@ -1,5 +1,5 @@
 {
-  "version": "1.21.0",
-  "url": "https://github.com/KazooGod02/kazoo-releases/releases/download/v1.21.0/Kazoo.App.Setup.1.21.0.exe",
-  "notes": "Studio: arreglado el menu del clic derecho, renombrar con F2, arrastrar para reordenar, chroma key y efectos de audio (compresor, supresion, puerta), plataformas con semaforo, barra de ESTAS TRANSMITIENDO en el dock y nueva barra superior."
+  "version": "1.21.1",
+  "url": "https://github.com/KazooGod02/kazoo-releases/releases/download/v1.21.1/Kazoo.App.Setup.1.21.1.exe",
+  "notes": "Menu del clic derecho arreglado de verdad (los botones se destruian entre el mousedown y el click por un re-render). Y clicar la escena actual ya suelta la fuente seleccionada."
 }

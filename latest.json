@@ -1,5 +1,5 @@
 {
-  "version": "1.21.1",
-  "url": "https://github.com/KazooGod02/kazoo-releases/releases/download/v1.21.1/Kazoo.App.Setup.1.21.1.exe",
-  "notes": "Menu del clic derecho arreglado de verdad (los botones se destruian entre el mousedown y el click por un re-render). Y clicar la escena actual ya suelta la fuente seleccionada."
+  "version": "1.22.0",
+  "url": "https://github.com/KazooGod02/kazoo-releases/releases/download/v1.22.0/Kazoo.App.Setup.1.22.0.exe",
+  "notes": "Kazoo Studio ya captura el audio de UNA sola aplicacion (modulo nativo propio, como hace OBS). Y arreglado el microfono, que desde la 1.21 no marcaba senal en el mezclador."
 }

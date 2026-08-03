@@ -1,5 +1,5 @@
 {
-  "version": "1.22.0",
-  "url": "https://github.com/KazooGod02/kazoo-releases/releases/download/v1.22.0/Kazoo.App.Setup.1.22.0.exe",
-  "notes": "Kazoo Studio ya captura el audio de UNA sola aplicacion (modulo nativo propio, como hace OBS). Y arreglado el microfono, que desde la 1.21 no marcaba senal en el mezclador."
+  "version": "1.22.1",
+  "url": "https://github.com/KazooGod02/kazoo-releases/releases/download/v1.22.1/Kazoo.App.Setup.1.22.1.exe",
+  "notes": "Ahora eliges como reencontrar la ventana cuando cambia de nombre: por titulo exacto, por tipo de ventana o por programa. Antes, si el titulo cambiaba (otro video, otro nivel), se perdia el audio de esa app."
 }

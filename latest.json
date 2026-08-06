@@ -1,5 +1,5 @@
 {
-  "version": "1.23.0",
-  "url": "https://github.com/KazooGod02/kazoo-releases/releases/download/v1.23.0/Kazoo.App.Setup.1.23.0.exe",
-  "notes": "Kazoo Studio: tu propio estudio de streaming dentro de Kazoo App, con captura de juegos, NVENC y camara virtual. Y lo mejor: si sales de Studio, el directo ya no se corta."
+  "version": "1.23.1",
+  "url": "https://github.com/KazooGod02/kazoo-releases/releases/download/v1.23.1/Kazoo.App.Setup.1.23.1.exe",
+  "notes": "Arreglado: el estudio se despegaba al mover o redimensionar Kazoo App. Vuelve la barra de menus. Y llega el Multistream: emite a varias plataformas a la vez codificando una sola vez."
 }

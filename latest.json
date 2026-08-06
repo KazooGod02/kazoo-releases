@@ -1,5 +1,5 @@
 {
-  "version": "1.22.1",
-  "url": "https://github.com/KazooGod02/kazoo-releases/releases/download/v1.22.1/Kazoo.App.Setup.1.22.1.exe",
-  "notes": "Ahora eliges como reencontrar la ventana cuando cambia de nombre: por titulo exacto, por tipo de ventana o por programa. Antes, si el titulo cambiaba (otro video, otro nivel), se perdia el audio de esa app."
+  "version": "1.23.0",
+  "url": "https://github.com/KazooGod02/kazoo-releases/releases/download/v1.23.0/Kazoo.App.Setup.1.23.0.exe",
+  "notes": "Kazoo Studio: tu propio estudio de streaming dentro de Kazoo App, con captura de juegos, NVENC y camara virtual. Y lo mejor: si sales de Studio, el directo ya no se corta."
 }

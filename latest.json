@@ -1,5 +1,5 @@
 {
-  "version": "1.23.2",
-  "url": "https://github.com/KazooGod02/kazoo-releases/releases/download/v1.23.2/Kazoo.App.Setup.1.23.2.exe",
-  "notes": "Kazoo Studio ya recuerda tus escenas, fuentes y posiciones. Menos consumo con el estudio abierto, transicion de modo mucho mas legible, y la barra de titulo solo con la K."
+  "version": "1.24.0",
+  "url": "https://github.com/KazooGod02/kazoo-releases/releases/download/v1.24.0/Kazoo-App-Setup-1.24.0.exe",
+  "notes": "Las actualizaciones ya no descargan la app entera: a partir de esta version solo se bajan los trozos que cambiaron, en segundo plano y con un boton para reiniciar. Esta ultima si se baja completa. Ademas: TikTok arreglado y las analiticas ya dicen por que falla una plataforma."
 }

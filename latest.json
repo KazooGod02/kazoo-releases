@@ -1,5 +1,5 @@
 {
-  "version": "1.24.1",
-  "url": "https://github.com/KazooGod02/kazoo-releases/releases/download/v1.24.1/Kazoo-App-Setup-1.24.1.exe",
-  "notes": "Publicar ya no tarda (2.3s -> 0.57s), un solo YouTube en vez de dos conexiones, y Kazoo Studio se descarga solo en equipos nuevos."
+  "version": "1.25.0",
+  "url": "https://github.com/KazooGod02/kazoo-releases/releases/download/v1.25.0/Kazoo-App-Setup-1.25.0.exe",
+  "notes": "Kazoo ya funciona en el movil como app instalada (Anadir a pantalla de inicio), con navegacion propia. Y llega el chat unificado: Twitch, YouTube y Kick en un solo hilo."
 }

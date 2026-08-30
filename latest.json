@@ -1,5 +1,5 @@
 {
-  "version": "1.34.0",
-  "url": "https://github.com/KazooGod02/kazoo-releases/releases/download/v1.34.0/Kazoo-App-Setup-1.34.0.exe",
-  "notes": "El studio rediseñado: siete paneles nuevos que se arrastran y recuerdan su sitio, con los menús de OBS de verdad al hacer clic derecho. Y arreglado el fallo que hacía que el studio reventara al cerrarse."
+  "version": "1.34.1",
+  "url": "https://github.com/KazooGod02/kazoo-releases/releases/download/v1.34.1/Kazoo-App-Setup-1.34.1.exe",
+  "notes": "Mezclador arreglado: sólo las tiras que suenan en la escena, medidores que ya no exageran y el deslizador junto a su medidor. Y los paneles del estudio salen siempre salvo que tú los cierres."
 }

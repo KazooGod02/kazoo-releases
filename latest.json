@@ -1,5 +1,5 @@
 {
-  "version": "1.34.1",
-  "url": "https://github.com/KazooGod02/kazoo-releases/releases/download/v1.34.1/Kazoo-App-Setup-1.34.1.exe",
-  "notes": "Mezclador arreglado: sólo las tiras que suenan en la escena, medidores que ya no exageran y el deslizador junto a su medidor. Y los paneles del estudio salen siempre salvo que tú los cierres."
+  "version": "1.34.2",
+  "url": "https://github.com/KazooGod02/kazoo-releases/releases/download/v1.34.2/Kazoo-App-Setup-1.34.2.exe",
+  "notes": "El botón de conectar YouTube al chat no hacía nada: exigía un nombre de canal en una casilla deshabilitada. YouTube va por tu cuenta conectada, no por canal."
 }
